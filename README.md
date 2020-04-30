@@ -8,7 +8,7 @@ Cloned from a [copy] of the original model [model] built by the authors of the p
 **Instructions**:
 -
 - Install packages as shown in `requirements.txt` for the mentioned version
-- Move the entire content of the `WashingtonOBRace` folder to `data/original` (308 images, 308 masks and 1 CSV file)
+- Move the entire content of the `WashingtonOBRace` folder to `data/original` (308 images, 308 masks and 1 CSV file) and delete `instructions.txt`
 - Run `main.py`
 
 
