@@ -1,0 +1,1 @@
+Where the predicted gate images will be.
