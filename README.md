@@ -1,5 +1,5 @@
 # Automatic Gate Detection for Autonomous Drone Racing
-Author: Killian Dally (4553373)
+Author: K. Dally
 -
 Implementation of gate detection based on "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks".
 Cloned from a [copy] of the original model [model] built by the authors of the paper. Modified and expanded for the confidential WashingtonOB dataset.
